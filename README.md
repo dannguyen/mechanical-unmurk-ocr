@@ -13,7 +13,7 @@ External components:
 - [ImageMagick](http://www.imagemagick.org/script/index.php): To break the original scanned images into their component hOCR entities
 
 
-Synergestic proactive paradigms (http://www.snpp.com/episodes/4F12.html) [that sound important](http://www.snpp.com/episodes/4F12.html):
+Synergestic proactive paradigms [used to sound important](http://www.snpp.com/episodes/4F12.html):
 - Brute-force programming 
 - Neural Networks
 - Crowdsourcing
